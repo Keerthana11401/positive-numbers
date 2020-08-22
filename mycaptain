@@ -1,0 +1,4 @@
+numbers = [1,2,-3,-54]
+for values in numbers:
+    if values > 0:
+        print( [values ], end =" ")
